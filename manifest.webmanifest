@@ -1,0 +1,16 @@
+{
+  "name": "考研计时器",
+  "short_name": "计时器",
+  "description": "分段计时的模考 / 练习计时器",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#141a26",
+  "theme_color": "#141a26",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
